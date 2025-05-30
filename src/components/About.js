@@ -29,7 +29,7 @@ const About = () => {
             not just offering tours—we’re sharing our home with you. Let us take
             you on a journey through Ethiopia like no one else can.
           </p>
-          <a href="#" className="btn">
+          <a href="/about" className="btn">
             read more
           </a>
         </article>
