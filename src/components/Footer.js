@@ -23,6 +23,7 @@ const Footer = () => {
               <a
                 href={href}
                 target="_blank"
+          rel="noreferrer"
                 className="footer-icon"
                 style={{ color: "white" }}
               >
